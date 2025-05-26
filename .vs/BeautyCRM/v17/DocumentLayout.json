@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\egmis\\source\\repos\\BeautyCRM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C61A59-B9A6-4D82-9BD1-471D69995B9C}|BeautyCRM.csproj|c:\\users\\egmis\\source\\repos\\beautycrm\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6C61A59-B9A6-4D82-9BD1-471D69995B9C}|BeautyCRM.csproj|solutionrelative:controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C61A59-B9A6-4D82-9BD1-471D69995B9C}|BeautyCRM.csproj|c:\\users\\egmis\\source\\repos\\beautycrm\\controllers\\sessionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6C61A59-B9A6-4D82-9BD1-471D69995B9C}|BeautyCRM.csproj|solutionrelative:controllers\\sessionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C61A59-B9A6-4D82-9BD1-471D69995B9C}|BeautyCRM.csproj|c:\\users\\egmis\\source\\repos\\beautycrm\\controllers\\servicecategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6C61A59-B9A6-4D82-9BD1-471D69995B9C}|BeautyCRM.csproj|solutionrelative:controllers\\servicecategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C61A59-B9A6-4D82-9BD1-471D69995B9C}|BeautyCRM.csproj|c:\\users\\egmis\\source\\repos\\beautycrm\\controllers\\customerservicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6C61A59-B9A6-4D82-9BD1-471D69995B9C}|BeautyCRM.csproj|solutionrelative:controllers\\customerservicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C61A59-B9A6-4D82-9BD1-471D69995B9C}|BeautyCRM.csproj|c:\\users\\egmis\\source\\repos\\beautycrm\\beautycrm-frontend\\src\\components\\addcustomerform.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F6C61A59-B9A6-4D82-9BD1-471D69995B9C}|BeautyCRM.csproj|solutionrelative:beautycrm-frontend\\src\\components\\addcustomerform.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C61A59-B9A6-4D82-9BD1-471D69995B9C}|BeautyCRM.csproj|c:\\users\\egmis\\source\\repos\\beautycrm\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6C61A59-B9A6-4D82-9BD1-471D69995B9C}|BeautyCRM.csproj|solutionrelative:models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C61A59-B9A6-4D82-9BD1-471D69995B9C}|BeautyCRM.csproj|c:\\users\\egmis\\source\\repos\\beautycrm\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6C61A59-B9A6-4D82-9BD1-471D69995B9C}|BeautyCRM.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C61A59-B9A6-4D82-9BD1-471D69995B9C}|BeautyCRM.csproj|c:\\users\\egmis\\source\\repos\\beautycrm\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F6C61A59-B9A6-4D82-9BD1-471D69995B9C}|BeautyCRM.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C61A59-B9A6-4D82-9BD1-471D69995B9C}|BeautyCRM.csproj|c:\\users\\egmis\\source\\repos\\beautycrm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6C61A59-B9A6-4D82-9BD1-471D69995B9C}|BeautyCRM.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C61A59-B9A6-4D82-9BD1-471D69995B9C}|BeautyCRM.csproj|c:\\users\\egmis\\source\\repos\\beautycrm\\models\\beautycrmcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6C61A59-B9A6-4D82-9BD1-471D69995B9C}|BeautyCRM.csproj|solutionrelative:models\\beautycrmcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C61A59-B9A6-4D82-9BD1-471D69995B9C}|BeautyCRM.csproj|c:\\users\\egmis\\source\\repos\\beautycrm\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6C61A59-B9A6-4D82-9BD1-471D69995B9C}|BeautyCRM.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 472,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{7f40df72-066b-4810-a08b-c0fbed76c948}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddCustomerForm.js",
+              "DocumentMoniker": "C:\\Users\\egmis\\source\\repos\\BeautyCRM\\beautycrm-frontend\\src\\components\\AddCustomerForm.js",
+              "RelativeDocumentMoniker": "beautycrm-frontend\\src\\components\\AddCustomerForm.js",
+              "ToolTip": "C:\\Users\\egmis\\source\\repos\\BeautyCRM\\beautycrm-frontend\\src\\components\\AddCustomerForm.js",
+              "RelativeToolTip": "beautycrm-frontend\\src\\components\\AddCustomerForm.js",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-19T13:35:55.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\egmis\\source\\repos\\BeautyCRM\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "Models\\Service.cs",
+              "ToolTip": "C:\\Users\\egmis\\source\\repos\\BeautyCRM\\Models\\Service.cs",
+              "RelativeToolTip": "Models\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T13:33:58.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\egmis\\source\\repos\\BeautyCRM\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\egmis\\source\\repos\\BeautyCRM\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T13:33:57.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SessionsController.cs",
+              "DocumentMoniker": "C:\\Users\\egmis\\source\\repos\\BeautyCRM\\Controllers\\SessionsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SessionsController.cs",
+              "ToolTip": "C:\\Users\\egmis\\source\\repos\\BeautyCRM\\Controllers\\SessionsController.cs",
+              "RelativeToolTip": "Controllers\\SessionsController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAswFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T11:50:47.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerServicesController.cs",
+              "DocumentMoniker": "C:\\Users\\egmis\\source\\repos\\BeautyCRM\\Controllers\\CustomerServicesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerServicesController.cs",
+              "ToolTip": "C:\\Users\\egmis\\source\\repos\\BeautyCRM\\Controllers\\CustomerServicesController.cs",
+              "RelativeToolTip": "Controllers\\CustomerServicesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T11:50:17.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceCategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\egmis\\source\\repos\\BeautyCRM\\Controllers\\ServiceCategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ServiceCategoriesController.cs",
+              "ToolTip": "C:\\Users\\egmis\\source\\repos\\BeautyCRM\\Controllers\\ServiceCategoriesController.cs",
+              "RelativeToolTip": "Controllers\\ServiceCategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T11:48:38.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\egmis\\source\\repos\\BeautyCRM\\Controllers\\ServiceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ServiceController.cs",
+              "ToolTip": "C:\\Users\\egmis\\source\\repos\\BeautyCRM\\Controllers\\ServiceController.cs",
+              "RelativeToolTip": "Controllers\\ServiceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T11:43:19.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BeautyCrmContext.cs",
+              "DocumentMoniker": "C:\\Users\\egmis\\source\\repos\\BeautyCRM\\Models\\BeautyCrmContext.cs",
+              "RelativeDocumentMoniker": "Models\\BeautyCrmContext.cs",
+              "ToolTip": "C:\\Users\\egmis\\source\\repos\\BeautyCRM\\Models\\BeautyCrmContext.cs",
+              "RelativeToolTip": "Models\\BeautyCrmContext.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T11:26:33.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\egmis\\source\\repos\\BeautyCRM\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\egmis\\source\\repos\\BeautyCRM\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T11:23:41.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\egmis\\source\\repos\\BeautyCRM\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\egmis\\source\\repos\\BeautyCRM\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T11:12:12.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\egmis\\source\\repos\\BeautyCRM\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\egmis\\source\\repos\\BeautyCRM\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-19T11:17:50.665Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 18,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
